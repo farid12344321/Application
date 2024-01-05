@@ -1,0 +1,14 @@
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkApp\HomeworkApp\HomeworkApp\bin\Debug\netcoreapp3.1\HomeworkApp.exe
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkApp\HomeworkApp\HomeworkApp\bin\Debug\netcoreapp3.1\HomeworkApp.deps.json
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkApp\HomeworkApp\HomeworkApp\bin\Debug\netcoreapp3.1\HomeworkApp.runtimeconfig.json
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkApp\HomeworkApp\HomeworkApp\bin\Debug\netcoreapp3.1\HomeworkApp.runtimeconfig.dev.json
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkApp\HomeworkApp\HomeworkApp\bin\Debug\netcoreapp3.1\HomeworkApp.dll
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkApp\HomeworkApp\HomeworkApp\bin\Debug\netcoreapp3.1\HomeworkApp.pdb
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkApp\HomeworkApp\HomeworkApp\obj\Debug\netcoreapp3.1\HomeworkApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkApp\HomeworkApp\HomeworkApp\obj\Debug\netcoreapp3.1\HomeworkApp.AssemblyInfoInputs.cache
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkApp\HomeworkApp\HomeworkApp\obj\Debug\netcoreapp3.1\HomeworkApp.AssemblyInfo.cs
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkApp\HomeworkApp\HomeworkApp\obj\Debug\netcoreapp3.1\HomeworkApp.csproj.CoreCompileInputs.cache
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkApp\HomeworkApp\HomeworkApp\obj\Debug\netcoreapp3.1\HomeworkApp.sourcelink.json
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkApp\HomeworkApp\HomeworkApp\obj\Debug\netcoreapp3.1\HomeworkApp.dll
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkApp\HomeworkApp\HomeworkApp\obj\Debug\netcoreapp3.1\HomeworkApp.pdb
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkApp\HomeworkApp\HomeworkApp\obj\Debug\netcoreapp3.1\HomeworkApp.genruntimeconfig.cache
